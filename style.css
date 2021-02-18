@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #00665E;
+    padding: 5px;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin: 10px
+}
+
+nav a { 
+    background-color: #FF9340;
+    border-radius: 15px;
+    padding: 7px;
+    margin: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+main p {
+    border-top: 5px solid #00665E;
+    border-left: 5px solid #00665E;
+    border-bottom: 5px solid #00665E;
+    padding: 5px
+}
+
+footer {
+    background-color: #FF9340;
+    padding: 3px;
+}
+
+.tel {
+    background-color: white;
+    padding: 5px
+}
